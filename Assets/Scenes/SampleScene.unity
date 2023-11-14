@@ -1144,7 +1144,7 @@ GameObject:
   - component: {fileID: 1303616770}
   m_Layer: 0
   m_Name: door (1)
-  m_TagString: Untagged
+  m_TagString: Teleporter
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1744,7 +1744,7 @@ GameObject:
   - component: {fileID: 2087952154}
   m_Layer: 0
   m_Name: door
-  m_TagString: Untagged
+  m_TagString: Teleporter
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
