@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Teleporter
   - Obstacle
+  - Ladder
   layers:
   - Default
   - TransparentFX
